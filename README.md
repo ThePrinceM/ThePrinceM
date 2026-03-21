@@ -103,21 +103,7 @@ print(me.greet())
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>📺 YouTube Comment Sentiment Analyzer</h3>
-      <p>Fetched live comments via the <strong>YouTube Data API</strong>, then fine-tuned a <strong>HuggingFace Transformer</strong> for multi-class sentiment analysis with a modular, production-grade pipeline.</p>
-      <p>
-        ✅ Achieved <strong>92% accuracy</strong><br/>
-        ✅ Full pipeline: ingestion → preprocessing → inference → visualization<br/>
-        ✅ Sentiment distribution across 3 classes
-      </p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <td width="50%" valign="top">
       <h3>🖥️ GPU Performance Monitoring Dashboard</h3>
       <p>Real-time Python tool polling <strong>nvidia-smi</strong> for GPU utilization, memory bandwidth, and temperature. Flags anomalies using <strong>MongoDB aggregation pipelines</strong> and compares performance across driver versions.</p>
       <p>
@@ -129,6 +115,8 @@ print(me.greet())
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌞 Solar Energy Planning & Forecasting System</h3>
       <p>End-to-end system estimating solar capacity, cost, subsidies, and ROI from user inputs using <strong>Regression ML</strong>. Delivered via a <strong>Flask + Streamlit</strong> web interface with automated data validation and unit tests.</p>
@@ -141,21 +129,7 @@ print(me.greet())
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ AI Itinerary Planner — Gemini + LangChain</h3>
-      <p>Conversational travel AI agent built with <strong>LangChain</strong> and <strong>google.generativeai</strong>, featuring tool-use and memory for seamless multi-turn planning. Deployed as a live <strong>Flask</strong> web app.</p>
-      <p>
-        ✅ Multi-turn memory & context retention<br/>
-        ✅ LangChain agent with custom tools<br/>
-        ✅ Full GenAI API integration
-      </p>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
+      <td width="50%" valign="top">
       <h3>📄 PDF Analyzer & Editorial Extractor</h3>
       <p>Automated extraction and consolidation of editorial content from multiple newspaper PDFs — identifying Opinion/Editorial pages and merging them into a single structured document programmatically.</p>
       <p>
@@ -182,16 +156,6 @@ print(me.greet())
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThePrinceM&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThePrinceM&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=4&row=2" alt="trophies"/>
 
 </div>
 
