@@ -264,7 +264,6 @@ print(me.greet())
 
 </div>
 
-> ⚙️ **Activate the snake:** Add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) — it auto-generates the animated SVG on a daily schedule.
 
 ---
 
